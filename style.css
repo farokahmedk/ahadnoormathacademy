@@ -3,3 +3,8 @@ body {
     background-color: #000000;
     color: aliceblue;
 }
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
