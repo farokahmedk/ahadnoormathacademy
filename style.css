@@ -2,9 +2,22 @@ body {
     margin: 0;
     background-color: #000000;
     color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     text-align: center;
     text-transform: uppercase;
+}
+a {
+    display: block;
+    text-align: center;
+    color: aliceblue;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    display: block;
+    margin:auto;
 }
